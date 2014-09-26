@@ -1,0 +1,27 @@
+﻿body {
+}
+
+.imgItemStyle{    
+    color:#000;
+    font-size:10pt;
+    z-index:1000; 
+    margin-left:50px;
+    margin-top:-30px; 
+    color:#fcf706;
+    font-weight:bold;
+}
+.imgItemUpdateStyle{    
+    color:#000;
+    font-size:14pt;
+    z-index:1000;     
+    margin-left:-180px; 
+    color:#fbc208;
+    margin-top:-160px;    
+}
+.imgCtrlStyle{
+    z-index:100;
+}
+.imgUpdateStyle{
+    z-index:100;
+    border:solid 2px #ff0000;
+}
